@@ -3,6 +3,8 @@ Essa POC mostra a instrumentação de uma API
 Java com Spring usando Prometheus para uma métrica
 de negócio hipotética.
 
+![alt text](screenshot-grafana.png "Grafana")
+
 As instruções para demonstração da POC estão à seguir.
 
 ## API
